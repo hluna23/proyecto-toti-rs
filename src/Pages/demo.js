@@ -25,15 +25,8 @@ Cras purus dolor, efficitur et tellus id, ultrices aliquet dui. Curabitur rutrum
 
         </p>
         
-        
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+       
+      
       </body>
     </div>
   );

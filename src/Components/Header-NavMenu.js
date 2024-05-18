@@ -35,6 +35,11 @@ function HeaderAndMenu() {
                 Iniciar Sessão
               </Link>
             </li>
+            <li className="menu-option-right">
+              <Link to="/NewAcount" className="menu-option-name">
+                Crear Conta
+              </Link>
+            </li>
           </ul>
         </nav>
       </header>
